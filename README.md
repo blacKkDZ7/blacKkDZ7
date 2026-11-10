@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Meu nome é Pedro Paulo, estou atualmente estudando Ciência da Computação e estou aprendendo sozinho a como desenvolver minhas ideias em código.
 <!--
 **blacKkDZ7/blacKkDZ7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
