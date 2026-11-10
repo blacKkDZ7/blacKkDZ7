@@ -1,6 +1,14 @@
-## Hi there 👋
+# Olá, eu sou Pedro Paulo 👋
 
-Meu nome é Pedro Paulo, estou atualmente estudando Ciência da Computação e estou aprendendo sozinho a como desenvolver minhas ideias em código.
+## 🎓 O que estou estudando
+- Ciência da Computação
+
+## 🎯 O que quero fazer
+- Aprender a transformar ideias próprias em código
+- Construir projetos do zero, passo a passo
+
+## 🚀 Projetos
+Em breve! O primeiro está a caminho.
 <!--
 **blacKkDZ7/blacKkDZ7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
